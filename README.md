@@ -12,6 +12,8 @@
 <p align="center">🔒 Bug Hunter | 🛡️ Security Researcher | 🔴 Red Team Specialist</p>
 
 ---
+ ![AnonGIF](https://github.com/user-attachments/assets/32586e7b-1434-4ff3-87bd-e10fcb849b1a)
+---
 
 <h2>📋 About Me</h2>
 <ul>
@@ -37,6 +39,7 @@
 </table>
 
 <h2>⚙️ Tools & Technologies</h2>
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 <p align="center">
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
