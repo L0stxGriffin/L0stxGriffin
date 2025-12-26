@@ -10,7 +10,7 @@
 <h1 align="center">Hi there 👋 I'm Harsh</h1>
 <p align="center">🔒 Bug Hunter | 🛡️ Security Researcher | 🔴 Red Team Specialist</p>
 
- <img src="https://github.com/user-attachments/assets/32586e7b-1434-4ff3-87bd-e10fcb849b1a"/>
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/182406584/522342106-32586e7b-1434-4ff3-87bd-e10fcb849b1a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251226T143645Z&X-Amz-Expires=300&X-Amz-Signature=86a55787db7bfef6c3adf6a1cb67c1d29d937025da411acf76011c3d24013203&X-Amz-SignedHeaders=host"/>
 
 <h2>📋 About Me</h2>
 <ul>
@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td><strong>Offensive Security</strong></td>
-    <td>Web Pentesting • Binary Exploitation • Red Teaming • Social Engineering</td>
+    <td>Web Pentesting • Binary Exploitation • Red Teaming • Social Engineering • Active Directory</td>
   </tr>
   <tr>
     <td><strong>Defensive Security</strong></td>
